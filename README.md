@@ -1,2 +1,0 @@
-# SDN
-SDN learning material
